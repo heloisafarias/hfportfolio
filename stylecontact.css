@@ -1,0 +1,68 @@
+* {
+    padding: 0px;
+    margin: 0px;
+   
+    background-image: url(bg.png);
+    background-attachment: fixed;
+    background-size: auto;
+
+}
+
+
+
+#menu ul {
+    padding:15px;
+    margin:10px;
+   
+    font-family: Verdana, Arial, Helvetica;
+    text-align: center;
+    word-spacing: 40px;
+    font-weight: 726;
+}
+
+a:link {
+   color: white;
+   text-decoration: none;
+   background-color: #7100BF ;
+}
+
+a:visited {
+    color:white;
+}
+
+
+
+#menu ul li { 
+display: inline; 
+
+ }
+
+.principal {
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
+
+.imagem1 {
+    text-align: center;
+    margin: 30px;
+    border: white;
+    border-width: 3px;
+    border-color: white;
+}
+
+.rodape {
+    text-align: left;
+    font-weight: 726;
+    color: white;
+    margin: 30px;
+    position:absolute;
+    position: fixed;
+    bottom:0;
+    width:100%;
+
+}
+
+.contactt {
+    font-size: 50px;
+}
