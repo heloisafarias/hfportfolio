@@ -39,7 +39,8 @@ display: inline;
 .principal {
     color: white;
     text-align: center;
-    padding: 200px;
+    padding: 80px;
+    border-radius: 20;
 }
 
 .rodape {
